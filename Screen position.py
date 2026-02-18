@@ -1,7 +1,8 @@
 import pyautogui
 import time
-print("rodando")
-time.sleep(3)
-print(pyautogui.position())
 
-pyautogui.moveTo(x=990, y=415)
+
+print("Getting positions")
+time.sleep(3) # Timer
+
+print(pyautogui.position())
