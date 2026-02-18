@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Automatization-for-Minecraft-PvP-soup
-=======
+
 Minecraft Automatic Recraft System
 
 Automation developed to perform automatic recraft inside Minecraft, specifically in a PvP game mode where soups are used for health regeneration.
